@@ -1,0 +1,11 @@
+C:\Users\Marko\source\repos\CurrencyScraper\CurrencyScraper\bin\Debug\CurrencyScraper.exe.config
+C:\Users\Marko\source\repos\CurrencyScraper\CurrencyScraper\bin\Debug\CurrencyScraper.exe
+C:\Users\Marko\source\repos\CurrencyScraper\CurrencyScraper\bin\Debug\CurrencyScraper.pdb
+C:\Users\Marko\source\repos\CurrencyScraper\CurrencyScraper\obj\Debug\CurrencyScraper.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\CurrencyScraper\CurrencyScraper\obj\Debug\CurrencyScraper.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\CurrencyScraper\CurrencyScraper\obj\Debug\CurrencyScraper.exe
+C:\Users\Marko\source\repos\CurrencyScraper\CurrencyScraper\obj\Debug\CurrencyScraper.pdb
+C:\Users\Marko\source\repos\CurrencyScraper\CurrencyScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Marko\source\repos\CurrencyScraper\CurrencyScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Marko\source\repos\CurrencyScraper\CurrencyScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Marko\source\repos\CurrencyScraper\CurrencyScraper\obj\Debug\CurrencyScraper.csproj.CopyComplete
